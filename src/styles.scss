@@ -1,0 +1,15 @@
+.wrapper-app{
+    height: 100vh;
+}
+.dark{
+    background-color: #121212;
+    h1, h2, h3, h4, h5, h6, p {
+        color: white
+    }
+}
+.light {
+    background-color: white;
+    h1, h2, h3, h4, h5, h6, p {
+        color: black
+    }
+}
